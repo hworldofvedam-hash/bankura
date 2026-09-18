@@ -1,0 +1,6 @@
+{
+  "name": "Sri Sathya Sai Seva Organisation - Bankura District",
+  "description": "Official portal of Sri Sathya Sai Seva Organisation, Bankura District, West Bengal. Featuring service activities, event updates, member registration, unique ID card generation, photo gallery, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
